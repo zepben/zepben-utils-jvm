@@ -38,7 +38,7 @@ import java.util.function.Predicate;
  * Which is nicer?
  * <p>
  * Stopping double release:
- * <blockquite>
+ * <blockquote>
  * <pre>{@code
  * bool released = false;
  * resource.acquire();
@@ -55,7 +55,7 @@ import java.util.function.Predicate;
  * }
  * }
  * </pre>
- * </blockquite>
+ * </blockquote>
  * Declaring outside try
  * <blockquote>
  * <pre>{@code
