@@ -10,7 +10,7 @@
 
     <groupId>com.zepben</groupId>
     <artifactId>zepben-utils</artifactId>
-    <version>1.4.0-SNAPSHOT3</version>
+    <version>1.4.0-SNAPSHOT4</version>
 
     <name>${project.groupId}:${project.artifactId}</name>
     <description>Zepben utility classes</description>
