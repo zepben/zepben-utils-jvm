@@ -3,18 +3,23 @@
 ## [1.4.0] - UNRELEASED
 
 ### Breaking Changes
-* None.
+
+* Updated to super-pom version 0.34.x.
 
 ### New Features
+
 * None.
 
 ### Enhancements
+
 * None.
 
 ### Fixes
+
 * None.
 
 ### Notes
+
 * None.
 
 ## [1.3.0]
