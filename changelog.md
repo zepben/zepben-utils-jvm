@@ -1,6 +1,6 @@
 # Zepben Utils JVM changelog
 
-## [1.4.0] - UNRELEASED
+## [1.4.0] - 2024-04-08
 
 ### Breaking Changes
 
